@@ -1,0 +1,452 @@
+{
+  "sales": [
+    {
+      "property_id": 657989,
+      "sources": [
+        "domain"
+      ],
+      "address": {
+        "full": "8/54 Penkivil Street, Bondi NSW 2026",
+        "unit": "8",
+        "number": "54",
+        "street": "Penkivil Street",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.892033,
+        "lng": 151.26176
+      },
+      "property_type": "apartment",
+      "beds": 2,
+      "baths": 2,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "Ray White Double Bay",
+      "sold_date": "2026-10-27",
+      "sold_price": null,
+      "sold_price_text": "Price Withheld",
+      "sale_method": "private_treaty",
+      "campaign": null
+    },
+    {
+      "property_id": 488732,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "2/20 Edward Street, Bondi NSW 2026",
+        "unit": "2",
+        "number": "20",
+        "street": "Edward Street",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.89390315,
+        "lng": 151.26946214
+      },
+      "property_type": "apartment",
+      "beds": 1,
+      "baths": 1,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "Belle Property - Bondi Junction",
+      "sold_date": "2026-10-26",
+      "sold_price": 827000,
+      "sold_price_text": "$827,000",
+      "sale_method": "private_treaty",
+      "campaign": null
+    },
+    {
+      "property_id": 490874,
+      "sources": [
+        "domain"
+      ],
+      "address": {
+        "full": "2/261-265 Old South Head Rd, Bondi Beach NSW 2026",
+        "unit": "2",
+        "number": "261-265",
+        "street": "Old South Head Rd",
+        "suburb": "Bondi Beach",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88836,
+        "lng": 151.26399
+      },
+      "property_type": "apartment",
+      "beds": 2,
+      "baths": 1,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "Biller Property",
+      "sold_date": "2026-10-26",
+      "sold_price": null,
+      "sold_price_text": "Price Withheld",
+      "sale_method": "private_treaty",
+      "campaign": null
+    },
+    {
+      "property_id": 580101,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "4/49-51 Roscoe Street, Bondi Beach NSW 2026",
+        "unit": "4",
+        "number": "49-51",
+        "street": "Roscoe Street",
+        "suburb": "Bondi Beach",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88872457,
+        "lng": 151.27153225
+      },
+      "property_type": "apartment",
+      "beds": 2,
+      "baths": 2,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "Belle Property - Bondi Junction",
+      "sold_date": "2026-10-26",
+      "sold_price": 2650000,
+      "sold_price_text": "$2,650,000",
+      "sale_method": "auction",
+      "campaign": null
+    },
+    {
+      "property_id": 439536,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "15A Owen Street, North Bondi NSW 2026",
+        "unit": null,
+        "number": "15A",
+        "street": "Owen Street",
+        "suburb": "North Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.87954274,
+        "lng": 151.27194409
+      },
+      "property_type": "house",
+      "beds": 5,
+      "baths": 2,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "TRG",
+      "sold_date": "2026-10-25",
+      "sold_price": null,
+      "sold_price_text": "Contact agent",
+      "sale_method": "prior_to_auction",
+      "campaign": {
+        "first_asking": "Buyers guide $3,850,000",
+        "last_asking": "Buyers Guide $3,850,000",
+        "price_changes": 0,
+        "days_on_market": 38,
+        "discount_pct": null
+      }
+    },
+    {
+      "property_id": 658045,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "8/56 Lamrock Avenue, Bondi Beach NSW 2026",
+        "unit": "8",
+        "number": "56",
+        "street": "Lamrock Avenue",
+        "suburb": "Bondi Beach",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.89082578,
+        "lng": 151.27009247
+      },
+      "property_type": "apartment",
+      "beds": 2,
+      "baths": 1,
+      "cars": 0,
+      "land_m2": null,
+      "agency": "Belle Property - Bondi Junction",
+      "sold_date": "2026-10-24",
+      "sold_price": 1300000,
+      "sold_price_text": "$1,300,000",
+      "sale_method": "private_treaty",
+      "campaign": {
+        "first_asking": "Auction | Guide $1,275,000",
+        "last_asking": "For Sale | $1,300,000",
+        "price_changes": 1,
+        "days_on_market": 31,
+        "discount_pct": 0
+      }
+    },
+    {
+      "property_id": 383399,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "101 Francis Street, Bondi Beach NSW 2026",
+        "unit": null,
+        "number": "101",
+        "street": "Francis Street",
+        "suburb": "Bondi Beach",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.89067054,
+        "lng": 151.26693603
+      },
+      "property_type": "house",
+      "beds": 4,
+      "baths": 3,
+      "cars": 0,
+      "land_m2": null,
+      "agency": "TRG",
+      "sold_date": "2026-10-23",
+      "sold_price": null,
+      "sold_price_text": "Contact agent",
+      "sale_method": "prior_to_auction",
+      "campaign": null
+    },
+    {
+      "property_id": 604445,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "53 Gilgandra Road, North Bondi NSW 2026",
+        "unit": null,
+        "number": "53",
+        "street": "Gilgandra Road",
+        "suburb": "North Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88283171,
+        "lng": 151.27357318
+      },
+      "property_type": "house",
+      "beds": 4,
+      "baths": 3,
+      "cars": 2,
+      "land_m2": null,
+      "agency": "Sydney Sotheby's International Realty - Double Bay",
+      "sold_date": "2026-10-23",
+      "sold_price": null,
+      "sold_price_text": "Contact agent",
+      "sale_method": "private_treaty",
+      "campaign": null
+    },
+    {
+      "property_id": 632309,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "6 Brassie Street, North Bondi NSW 2026",
+        "unit": null,
+        "number": "6",
+        "street": "Brassie Street",
+        "suburb": "North Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88307334,
+        "lng": 151.2716574
+      },
+      "property_type": "house",
+      "beds": 3,
+      "baths": 2,
+      "cars": 3,
+      "land_m2": 443,
+      "agency": "Ray White Phillips & Co",
+      "sold_date": "2026-10-23",
+      "sold_price": 5675000,
+      "sold_price_text": "$5,675,000",
+      "sale_method": "prior_to_auction",
+      "campaign": null
+    },
+    {
+      "property_id": 428186,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "1-4/10 Penkivil Street, Bondi NSW 2026",
+        "unit": "1-4",
+        "number": "10",
+        "street": "Penkivil Street",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88954476,
+        "lng": 151.26215442
+      },
+      "property_type": "unitblock",
+      "beds": 9,
+      "baths": 4,
+      "cars": 2,
+      "land_m2": null,
+      "agency": "Ray White - Double Bay",
+      "sold_date": "2026-10-22",
+      "sold_price": 6000000,
+      "sold_price_text": "$6,000,000",
+      "sale_method": "auction",
+      "campaign": {
+        "first_asking": "Auction | Guide $4,800,000",
+        "last_asking": "Auction | Guide $4,800,000",
+        "price_changes": 0,
+        "days_on_market": -1,
+        "discount_pct": -25
+      }
+    },
+    {
+      "property_id": 1077426,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "317/180 Campbell Parade, Bondi Beach NSW 2026",
+        "unit": "317",
+        "number": "180",
+        "street": "Campbell Parade",
+        "suburb": "Bondi Beach",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.8891457,
+        "lng": 151.27583219
+      },
+      "property_type": "apartment",
+      "beds": 2,
+      "baths": 1,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "McGrath - Coogee",
+      "sold_date": "2019-12-23",
+      "sold_price": 1950000,
+      "sold_price_text": "$1,950,000",
+      "sale_method": "auction",
+      "campaign": null
+    },
+    {
+      "property_id": 1458060,
+      "sources": [
+        "rea"
+      ],
+      "address": {
+        "full": "3/13-15 Ocean Street, Bondi NSW 2026",
+        "unit": "3",
+        "number": "13-15",
+        "street": "Ocean Street",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.89089,
+        "lng": 151.262598
+      },
+      "property_type": "apartment",
+      "beds": 3,
+      "baths": 2,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "Ray White - Double Bay",
+      "sold_date": "2019-12-20",
+      "sold_price": 1405000,
+      "sold_price_text": "$1,405,000",
+      "sale_method": null,
+      "campaign": null
+    },
+    {
+      "property_id": 1322570,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "address": {
+        "full": "8 Philip Street, Bondi NSW 2026",
+        "unit": null,
+        "number": "8",
+        "street": "Philip Street",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.89605284,
+        "lng": 151.26398561
+      },
+      "property_type": "house",
+      "beds": 3,
+      "baths": 2,
+      "cars": 0,
+      "land_m2": 218,
+      "agency": "McGrath - Coogee",
+      "sold_date": "2019-12-20",
+      "sold_price": 2500000,
+      "sold_price_text": "Contact agent",
+      "sale_method": "private_treaty",
+      "campaign": null
+    },
+    {
+      "property_id": 1451903,
+      "sources": [
+        "rea"
+      ],
+      "address": {
+        "full": "297 Old South Head Road, Bondi Beach NSW 2026",
+        "unit": null,
+        "number": "297",
+        "street": "Old South Head Road",
+        "suburb": "Bondi Beach",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88632502,
+        "lng": 151.26697971
+      },
+      "property_type": "house",
+      "beds": 2,
+      "baths": 1,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "Sydney Sotheby's International Realty - Double Bay",
+      "sold_date": "2019-12-20",
+      "sold_price": 1925000,
+      "sold_price_text": "$1,925,000",
+      "sale_method": null,
+      "campaign": null
+    },
+    {
+      "property_id": 857393,
+      "sources": [
+        "rea"
+      ],
+      "address": {
+        "full": "12/2 Penkivil Street, BONDI NSW 2026",
+        "unit": "12",
+        "number": "2",
+        "street": "Penkivil Street",
+        "suburb": "BONDI",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88848212,
+        "lng": 151.26235936
+      },
+      "property_type": "apartment",
+      "beds": 1,
+      "baths": 1,
+      "cars": 0,
+      "land_m2": null,
+      "agency": "McGrath Surry Hills",
+      "sold_date": "2019-12-19",
+      "sold_price": 695000,
+      "sold_price_text": "$695,000",
+      "sale_method": null,
+      "campaign": null
+    }
+  ]
+}
