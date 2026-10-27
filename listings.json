@@ -1,196 +1,212 @@
 {
-  "generated_at": "2026-10-28T09:16:37+11:00",
+  "generated_at": "2026-10-28T09:38:42+11:00",
   "channel": "buy",
   "area": "postcode 2026 (Bondi, Bondi Beach, North Bondi, Tamarama)",
   "listings": [
     {
-      "property_id": 621526,
-      "sources": [
-        "domain"
-      ],
-      "rea_listing_id": null,
-      "domain_listing_id": "2020346264",
-      "url": "https://www.domain.com.au/6-1-7-andrews-avenue-bondi-nsw-2026-2020346264",
-      "address": {
-        "full": "6/1-7 Andrews Avenue, Bondi NSW 2026",
-        "unit": "6",
-        "number": "1-7",
-        "street": "Andrews Avenue",
-        "suburb": "Bondi",
-        "state": "NSW",
-        "postcode": "2026",
-        "lat": -33.896225,
-        "lng": 151.27013
-      },
-      "property_type": "apartment",
-      "beds": 4,
-      "baths": 4,
-      "cars": 2,
-      "land_m2": null,
-      "agency": "1st City Projects",
-      "price_text": "Contact Agent",
-      "price_low": null,
-      "price_high": null,
-      "advertised_as": "contact_agent",
-      "status": "active",
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
-      "listed_date": "2025-10-15",
-      "days_on_market": 376,
-      "auction_at": null,
-      "sold_date": null,
-      "sold_price": null,
-      "price_history": [],
-      "status_history": [
-        {
-          "date": "2026-10-25",
-          "sources": [
-            "domain"
-          ],
-          "event": "listed"
-        }
-      ]
-    },
-    {
-      "property_id": 694401,
-      "sources": [
-        "domain"
-      ],
-      "rea_listing_id": null,
-      "domain_listing_id": "2020342382",
-      "url": "https://www.domain.com.au/22-edward-street-bondi-nsw-2026-2020342382",
-      "address": {
-        "full": "22 Edward Street, Bondi NSW 2026",
-        "unit": null,
-        "number": "22",
-        "street": "Edward Street",
-        "suburb": "Bondi",
-        "state": "NSW",
-        "postcode": "2026",
-        "lat": -33.89309,
-        "lng": 151.26859
-      },
-      "property_type": "apartment",
-      "beds": 3,
-      "baths": 3,
-      "cars": 2,
-      "land_m2": null,
-      "agency": "SRM Residential",
-      "price_text": "Display Gallery Coming Soon",
-      "price_low": null,
-      "price_high": null,
-      "advertised_as": "no_price",
-      "status": "active",
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
-      "listed_date": "2025-10-14",
-      "days_on_market": 377,
-      "auction_at": null,
-      "sold_date": null,
-      "sold_price": null,
-      "price_history": [],
-      "status_history": [
-        {
-          "date": "2026-10-25",
-          "sources": [
-            "domain"
-          ],
-          "event": "listed"
-        }
-      ]
-    },
-    {
-      "property_id": 694406,
-      "sources": [
-        "domain"
-      ],
-      "rea_listing_id": null,
-      "domain_listing_id": "2021214014",
-      "url": "https://www.domain.com.au/135-155-curlewis-street-bondi-beach-nsw-2026-2021214014",
-      "address": {
-        "full": "135-155 Curlewis Street, Bondi Beach NSW 2026",
-        "unit": null,
-        "number": "135-155",
-        "street": "Curlewis Street",
-        "suburb": "Bondi Beach",
-        "state": "NSW",
-        "postcode": "2026",
-        "lat": -33.889038,
-        "lng": 151.27412
-      },
-      "property_type": "apartment",
-      "beds": 4,
-      "baths": 4,
-      "cars": 2,
-      "land_m2": null,
-      "agency": "Created By Clutch",
-      "price_text": "Contact Agent",
-      "price_low": null,
-      "price_high": null,
-      "advertised_as": "contact_agent",
-      "status": "active",
-      "first_seen": "2026-10-25",
-      "last_seen": "2026-10-27",
-      "listed_date": "2026-10-06",
-      "days_on_market": 20,
-      "auction_at": null,
-      "sold_date": null,
-      "sold_price": null,
-      "price_history": [],
-      "status_history": [
-        {
-          "date": "2026-10-25",
-          "sources": [
-            "domain"
-          ],
-          "event": "listed"
-        }
-      ]
-    },
-    {
-      "property_id": 4582639,
+      "property_id": 824746,
       "sources": [
         "rea",
         "domain"
       ],
-      "rea_listing_id": "152743568",
-      "domain_listing_id": "2021275670",
-      "url": "https://www.realestate.com.au/property-apartment-nsw-bondi-152743568",
+      "rea_listing_id": "152757136",
+      "domain_listing_id": "2021279079",
+      "url": "https://www.realestate.com.au/property-house-nsw-north+bondi-152757136",
       "address": {
-        "full": "7/56 Penkivil Street, Bondi NSW 2026",
-        "unit": "7",
-        "number": "56",
+        "full": "10 Narelle Street, North Bondi NSW 2026",
+        "unit": null,
+        "number": "10",
+        "street": "Narelle Street",
+        "suburb": "North Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.87934592,
+        "lng": 151.2749208
+      },
+      "property_type": "house",
+      "beds": 4,
+      "baths": 3,
+      "cars": 0,
+      "land_m2": null,
+      "agency": "Raine & Horne - Double Bay",
+      "is_project": false,
+      "price_text": "For Sale",
+      "price_low": null,
+      "price_high": null,
+      "advertised_as": "no_price",
+      "under_offer": false,
+      "status": "active",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "listed_date": "2026-10-27",
+      "days_on_market": 0,
+      "auction_at": null,
+      "sold_date": null,
+      "sold_price": null,
+      "sold_price_text": null,
+      "price_history": [],
+      "status_history": [
+        {
+          "date": "2026-10-28",
+          "sources": [
+            "domain",
+            "rea"
+          ],
+          "event": "listed"
+        }
+      ]
+    },
+    {
+      "property_id": 841163,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "rea_listing_id": "152746928",
+      "domain_listing_id": "2021276526",
+      "url": "https://www.realestate.com.au/property-apartment-nsw-north+bondi-152746928",
+      "address": {
+        "full": "1/16 Military Road, North Bondi NSW 2026",
+        "unit": "1",
+        "number": "16",
+        "street": "Military Road",
+        "suburb": "North Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88667591,
+        "lng": 151.28343878
+      },
+      "property_type": "apartment",
+      "beds": 2,
+      "baths": 1,
+      "cars": 0,
+      "land_m2": null,
+      "agency": "Ray White Eastern Beaches",
+      "is_project": false,
+      "price_text": "Contact Agent",
+      "price_low": null,
+      "price_high": null,
+      "advertised_as": "contact_agent",
+      "under_offer": false,
+      "status": "active",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "listed_date": "2026-10-27",
+      "days_on_market": 0,
+      "auction_at": "2026-11-21T13:30:00+11:00",
+      "sold_date": null,
+      "sold_price": null,
+      "sold_price_text": null,
+      "price_history": [],
+      "status_history": [
+        {
+          "date": "2026-10-28",
+          "sources": [
+            "domain",
+            "rea"
+          ],
+          "event": "listed"
+        }
+      ]
+    },
+    {
+      "property_id": 920724,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "rea_listing_id": "152749680",
+      "domain_listing_id": "2021277134",
+      "url": "https://www.realestate.com.au/property-apartment-nsw-bondi-152749680",
+      "address": {
+        "full": "16/66 Penkivil Street, Bondi NSW 2026",
+        "unit": "16",
+        "number": "66",
         "street": "Penkivil Street",
         "suburb": "Bondi",
         "state": "NSW",
         "postcode": "2026",
-        "lat": -33.89221292,
-        "lng": 151.261718
+        "lat": -33.89294898,
+        "lng": 151.26169862
       },
       "property_type": "apartment",
       "beds": 2,
       "baths": 1,
       "cars": 1,
-      "land_m2": null,
-      "agency": "TRG",
-      "price_text": "Auction",
+      "land_m2": 100,
+      "agency": "PPD Real Estate",
+      "is_project": false,
+      "price_text": "Auction 28 November",
       "price_low": null,
       "price_high": null,
       "advertised_as": "auction",
+      "under_offer": false,
       "status": "active",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "listed_date": "2026-10-26",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "listed_date": "2026-10-27",
       "days_on_market": 0,
-      "auction_at": "2026-12-01T17:00:00+11:00",
+      "auction_at": "2026-11-28T12:30:00+11:00",
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [],
       "status_history": [
         {
-          "date": "2026-10-27",
+          "date": "2026-10-28",
           "sources": [
             "domain",
+            "rea"
+          ],
+          "event": "listed"
+        }
+      ]
+    },
+    {
+      "property_id": 7068529,
+      "sources": [
+        "rea"
+      ],
+      "rea_listing_id": "152757256",
+      "domain_listing_id": null,
+      "url": "https://www.realestate.com.au/property-apartment-nsw-bondi+beach-152757256",
+      "address": {
+        "full": "11/246-248 Campbell Parade, Bondi Beach NSW 2026",
+        "unit": "11",
+        "number": "246-248",
+        "street": "Campbell Parade",
+        "suburb": "Bondi Beach",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.88942468,
+        "lng": 151.28017292
+      },
+      "property_type": "apartment",
+      "beds": 4,
+      "baths": 3,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "Sydney Sotheby's International Realty - Double Bay",
+      "is_project": false,
+      "price_text": "Auction Saturday 14th November",
+      "price_low": null,
+      "price_high": null,
+      "advertised_as": "auction",
+      "under_offer": false,
+      "status": "active",
+      "first_seen": "2026-10-28",
+      "last_seen": "2026-10-28",
+      "listed_date": null,
+      "days_on_market": 0,
+      "auction_at": "2026-11-14T13:30:00+11:00",
+      "sold_date": null,
+      "sold_price": null,
+      "sold_price_text": null,
+      "price_history": [],
+      "status_history": [
+        {
+          "date": "2026-10-28",
+          "sources": [
             "rea"
           ],
           "event": "listed"
@@ -223,18 +239,21 @@
       "cars": 0,
       "land_m2": null,
       "agency": "McGrath - Coogee",
-      "price_text": "Auction Guide $900,000",
-      "price_low": 900000,
-      "price_high": 900000,
+      "is_project": false,
+      "price_text": "Auction Guide $910,000",
+      "price_low": 910000,
+      "price_high": 910000,
       "advertised_as": "auction",
+      "under_offer": false,
       "status": "active",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-09-21",
-      "days_on_market": 35,
+      "days_on_market": 36,
       "auction_at": "2026-11-11T17:00:00+11:00",
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-28",
@@ -294,18 +313,21 @@
       "cars": 0,
       "land_m2": null,
       "agency": "Raine & Horne - Double Bay",
-      "price_text": "Auction",
-      "price_low": null,
-      "price_high": null,
+      "is_project": false,
+      "price_text": "Auction | Price Guide: $3,100,000",
+      "price_low": 3100000,
+      "price_high": 3100000,
       "advertised_as": "auction",
+      "under_offer": false,
       "status": "active",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-10-09",
-      "days_on_market": 17,
+      "days_on_market": 18,
       "auction_at": null,
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-28",
@@ -365,18 +387,21 @@
       "cars": 2,
       "land_m2": null,
       "agency": "TRG",
+      "is_project": false,
       "price_text": "Contact Agent",
       "price_low": null,
       "price_high": null,
       "advertised_as": "contact_agent",
+      "under_offer": false,
       "status": "active",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-08-14",
-      "days_on_market": 73,
+      "days_on_market": 74,
       "auction_at": null,
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-27",
@@ -390,89 +415,6 @@
           "to_low": null,
           "to_high": null,
           "to_advertised_as": "contact_agent",
-          "change": "text_change"
-        }
-      ],
-      "status_history": [
-        {
-          "date": "2026-10-19",
-          "sources": [
-            "rea"
-          ],
-          "event": "listed"
-        },
-        {
-          "date": "2026-10-25",
-          "sources": [
-            "domain"
-          ],
-          "event": "listed"
-        }
-      ]
-    },
-    {
-      "property_id": 412505,
-      "sources": [
-        "rea",
-        "domain"
-      ],
-      "rea_listing_id": "152474472",
-      "domain_listing_id": "2021194959",
-      "url": "https://www.realestate.com.au/property-apartment-nsw-bondi-152474472",
-      "address": {
-        "full": "12/65 Penkivil Street, Bondi NSW 2026",
-        "unit": "12",
-        "number": "65",
-        "street": "Penkivil Street",
-        "suburb": "Bondi",
-        "state": "NSW",
-        "postcode": "2026",
-        "lat": -33.89245904,
-        "lng": 151.2608604
-      },
-      "property_type": "apartment",
-      "beds": 2,
-      "baths": 1,
-      "cars": 2,
-      "land_m2": null,
-      "agency": "PRD - Perez Real Estate",
-      "price_text": "FOR SALE",
-      "price_low": null,
-      "price_high": null,
-      "advertised_as": "no_price",
-      "status": "active",
-      "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
-      "listed_date": "2026-09-29",
-      "days_on_market": 27,
-      "auction_at": null,
-      "sold_date": null,
-      "sold_price": null,
-      "price_history": [
-        {
-          "date": "2026-10-22",
-          "sources": [
-            "rea"
-          ],
-          "from_text": "FOR SALE| Price Guide $1,200,000",
-          "to_text": "FOR SALE | Price Guide $1,150,000",
-          "from_low": 1200000,
-          "to_low": 1150000,
-          "to_high": 1150000,
-          "to_advertised_as": "fixed",
-          "change": "drop"
-        },
-        {
-          "date": "2026-10-22",
-          "sources": [
-            "rea"
-          ],
-          "from_text": "FOR SALE | Price Guide $1,150,000",
-          "to_text": "FOR SALE",
-          "from_low": 1150000,
-          "to_low": null,
-          "to_high": null,
-          "to_advertised_as": "no_price",
           "change": "text_change"
         }
       ],
@@ -519,18 +461,21 @@
       "cars": 1,
       "land_m2": null,
       "agency": "PPD Real Estate",
-      "price_text": "Guide $2,100,000 - $2,200,000",
-      "price_low": 2100000,
-      "price_high": 2200000,
-      "advertised_as": "range",
+      "is_project": false,
+      "price_text": "Guide $2,250,000",
+      "price_low": 2250000,
+      "price_high": 2250000,
+      "advertised_as": "fixed",
+      "under_offer": false,
       "status": "active",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-10-02",
-      "days_on_market": 24,
+      "days_on_market": 25,
       "auction_at": "2026-11-11T18:00:00+11:00",
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-22",
@@ -578,69 +523,60 @@
       ]
     },
     {
-      "property_id": 487140,
+      "property_id": 549183,
       "sources": [
         "rea",
         "domain"
       ],
-      "rea_listing_id": "152580040",
-      "domain_listing_id": "2021143262",
-      "url": "https://www.realestate.com.au/property-house-nsw-north+bondi-152580040",
+      "rea_listing_id": "152166768",
+      "domain_listing_id": "2021105499",
+      "url": "https://www.realestate.com.au/property-house-nsw-bondi-152166768",
       "address": {
-        "full": "21 Macleay Street, North Bondi NSW 2026",
+        "full": "34 Moore Street, Bondi NSW 2026",
         "unit": null,
-        "number": "21",
-        "street": "Macleay Street",
-        "suburb": "North Bondi",
+        "number": "34",
+        "street": "Moore Street",
+        "suburb": "Bondi",
         "state": "NSW",
         "postcode": "2026",
-        "lat": -33.88052196,
-        "lng": 151.27905902
+        "lat": -33.89265191,
+        "lng": 151.26528773
       },
       "property_type": "house",
       "beds": 4,
-      "baths": 2,
-      "cars": 3,
-      "land_m2": null,
-      "agency": "Ray White Phillips & Co",
-      "price_text": "Buyers Guide $6,500,000",
-      "price_low": 6500000,
-      "price_high": 6500000,
+      "baths": 3,
+      "cars": 1,
+      "land_m2": 311,
+      "agency": "McGrath - Double Bay",
+      "is_project": false,
+      "price_text": "For Sale | Guide $4,500,000",
+      "price_low": 4500000,
+      "price_high": 4500000,
       "advertised_as": "fixed",
+      "under_offer": false,
       "status": "active",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
-      "listed_date": "2026-09-09",
-      "days_on_market": 47,
-      "auction_at": "2026-10-27T17:00:00+11:00",
+      "last_seen": "2026-10-28",
+      "listed_date": "2026-08-27",
+      "days_on_market": 61,
+      "auction_at": "2026-10-24T09:45:00+11:00",
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-28",
           "sources": [
-            "domain"
-          ],
-          "from_text": "Auction",
-          "to_text": "Auction Guide $5.8million",
-          "from_low": null,
-          "to_low": 5800000,
-          "to_high": 5800000,
-          "to_advertised_as": "auction",
-          "change": "text_change"
-        },
-        {
-          "date": "2026-10-28",
-          "sources": [
+            "domain",
             "rea"
           ],
-          "from_text": "Buyers Guide $6,500,000",
-          "to_text": "Buyers Guide $5,800,000",
-          "from_low": 6500000,
-          "to_low": 5800000,
-          "to_high": 5800000,
+          "from_text": "Guide $4,500,000",
+          "to_text": "For Sale | Guide $4,500,000",
+          "from_low": 4500000,
+          "to_low": 4500000,
+          "to_high": 4500000,
           "to_advertised_as": "fixed",
-          "change": "drop"
+          "change": "text_change"
         }
       ],
       "status_history": [
@@ -686,18 +622,21 @@
       "cars": 2,
       "land_m2": 344,
       "agency": "McGrath - Double Bay",
-      "price_text": "Contact Agent",
+      "is_project": false,
+      "price_text": "For Sale",
       "price_low": null,
       "price_high": null,
-      "advertised_as": "contact_agent",
+      "advertised_as": "no_price",
+      "under_offer": false,
       "status": "active",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-08-07",
-      "days_on_market": 81,
+      "days_on_market": 82,
       "auction_at": null,
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-28",
@@ -712,6 +651,80 @@
           "to_high": null,
           "to_advertised_as": "no_price",
           "change": "text_change"
+        }
+      ],
+      "status_history": [
+        {
+          "date": "2026-10-19",
+          "sources": [
+            "rea"
+          ],
+          "event": "listed"
+        },
+        {
+          "date": "2026-10-25",
+          "sources": [
+            "domain"
+          ],
+          "event": "listed"
+        }
+      ]
+    },
+    {
+      "property_id": 625355,
+      "sources": [
+        "rea",
+        "domain"
+      ],
+      "rea_listing_id": "152448468",
+      "domain_listing_id": "2021186934",
+      "url": "https://www.realestate.com.au/property-apartment-nsw-bondi-152448468",
+      "address": {
+        "full": "6401/32 Wellington Street, Bondi NSW 2026",
+        "unit": "6401",
+        "number": "32",
+        "street": "Wellington Street",
+        "suburb": "Bondi",
+        "state": "NSW",
+        "postcode": "2026",
+        "lat": -33.89192135,
+        "lng": 151.26369538
+      },
+      "property_type": "apartment",
+      "beds": 1,
+      "baths": 1,
+      "cars": 1,
+      "land_m2": null,
+      "agency": "McGrath - Double Bay",
+      "is_project": false,
+      "price_text": "Guide $1,050,000",
+      "price_low": 1050000,
+      "price_high": 1050000,
+      "advertised_as": "fixed",
+      "under_offer": false,
+      "status": "active",
+      "first_seen": "2026-10-19",
+      "last_seen": "2026-10-28",
+      "listed_date": "2026-09-25",
+      "days_on_market": 32,
+      "auction_at": "2026-10-31T09:45:00+11:00",
+      "sold_date": null,
+      "sold_price": null,
+      "sold_price_text": null,
+      "price_history": [
+        {
+          "date": "2026-10-27",
+          "sources": [
+            "domain",
+            "rea"
+          ],
+          "from_text": "Guide $1,100,000",
+          "to_text": "Guide $1,050,000",
+          "from_low": 1100000,
+          "to_low": 1050000,
+          "to_high": 1050000,
+          "to_advertised_as": "fixed",
+          "change": "drop"
         }
       ],
       "status_history": [
@@ -757,18 +770,21 @@
       "cars": 4,
       "land_m2": null,
       "agency": "Ray White - Double Bay",
+      "is_project": false,
       "price_text": "Expressions of Interest | $4,500,000",
       "price_low": 4500000,
       "price_high": null,
       "advertised_as": "eoi",
+      "under_offer": false,
       "status": "active",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-09-30",
-      "days_on_market": 26,
+      "days_on_market": 27,
       "auction_at": null,
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-27",
@@ -827,11 +843,13 @@
       "baths": 1,
       "cars": 1,
       "land_m2": null,
-      "agency": "Kats Real Estate",
+      "agency": "Biller Property",
+      "is_project": false,
       "price_text": "Auction",
       "price_low": null,
       "price_high": null,
       "advertised_as": "auction",
+      "under_offer": false,
       "status": "sold",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-27",
@@ -840,6 +858,7 @@
       "auction_at": null,
       "sold_date": "2026-10-26",
       "sold_price": null,
+      "sold_price_text": "Price Withheld",
       "price_history": [],
       "status_history": [
         {
@@ -896,19 +915,22 @@
       "baths": 1,
       "cars": 1,
       "land_m2": null,
-      "agency": "Allan Dale Real Estate - Annandale",
+      "agency": "Allan Dale Real Estate",
+      "is_project": false,
       "price_text": "SOLD | 1,260,000",
       "price_low": 1260000,
       "price_high": 1260000,
       "advertised_as": "sold",
+      "under_offer": false,
       "status": "sold",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": null,
-      "days_on_market": -25,
+      "days_on_market": null,
       "auction_at": null,
       "sold_date": "2026-09-25",
       "sold_price": 1260000,
+      "sold_price_text": "$1,260,000",
       "price_history": [],
       "status_history": [
         {
@@ -928,43 +950,46 @@
       ]
     },
     {
-      "property_id": 657989,
+      "property_id": 572127,
       "sources": [
         "rea",
         "domain"
       ],
-      "rea_listing_id": "150534948",
-      "domain_listing_id": "2020666841",
-      "url": "https://www.realestate.com.au/property-apartment-nsw-bondi-150534948",
+      "rea_listing_id": "152582080",
+      "domain_listing_id": "2021226195",
+      "url": "https://www.realestate.com.au/property-apartment-nsw-bondi+beach-152582080",
       "address": {
-        "full": "8/54 Penkivil Street, Bondi NSW 2026",
-        "unit": "8",
-        "number": "54",
-        "street": "Penkivil Street",
-        "suburb": "Bondi",
+        "full": "4/154 Glenayr Avenue, Bondi Beach NSW 2026",
+        "unit": "4",
+        "number": "154",
+        "street": "Glenayr Avenue",
+        "suburb": "Bondi Beach",
         "state": "NSW",
         "postcode": "2026",
-        "lat": -33.89204663,
-        "lng": 151.26175169
+        "lat": -33.88861706,
+        "lng": 151.27109304
       },
       "property_type": "apartment",
-      "beds": 2,
-      "baths": 2,
-      "cars": 1,
-      "land_m2": null,
-      "agency": "Ray White - Double Bay",
-      "price_text": "For Sale $1,200,000",
-      "price_low": 1200000,
-      "price_high": 1200000,
-      "advertised_as": "under_offer",
+      "beds": 1,
+      "baths": 1,
+      "cars": 0,
+      "land_m2": 52,
+      "agency": "PPD Real Estate",
+      "is_project": false,
+      "price_text": "For Sale",
+      "price_low": null,
+      "price_high": null,
+      "advertised_as": "no_price",
+      "under_offer": false,
       "status": "sold",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-27",
-      "listed_date": "2026-09-15",
-      "days_on_market": 41,
+      "listed_date": "2026-10-09",
+      "days_on_market": 17,
       "auction_at": null,
       "sold_date": "2026-10-27",
       "sold_price": null,
+      "sold_price_text": "Price Withheld",
       "price_history": [],
       "status_history": [
         {
@@ -982,18 +1007,11 @@
           "event": "listed"
         },
         {
-          "date": "2026-10-27",
+          "date": "2026-10-28",
           "sources": [
             "domain"
           ],
           "event": "sold"
-        },
-        {
-          "date": "2026-10-28",
-          "sources": [
-            "rea"
-          ],
-          "event": "delisted"
         }
       ]
     },
@@ -1013,8 +1031,8 @@
         "suburb": "Bondi Beach",
         "state": "NSW",
         "postcode": "2026",
-        "lat": null,
-        "lng": null
+        "lat": -33.890755,
+        "lng": 151.27003
       },
       "property_type": "apartment",
       "beds": 2,
@@ -1022,10 +1040,12 @@
       "cars": 0,
       "land_m2": null,
       "agency": "Belle Property - Bondi Junction",
+      "is_project": false,
       "price_text": "For Sale | $1,300,000",
       "price_low": 1300000,
       "price_high": 1300000,
       "advertised_as": "fixed",
+      "under_offer": false,
       "status": "sold",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-24",
@@ -1034,6 +1054,7 @@
       "auction_at": null,
       "sold_date": "2026-10-24",
       "sold_price": 1300000,
+      "sold_price_text": "$1,300,000",
       "price_history": [
         {
           "date": "2026-10-24",
@@ -1099,18 +1120,21 @@
       "cars": 0,
       "land_m2": null,
       "agency": "Sydney Sotheby's International Realty - Double Bay",
+      "is_project": false,
       "price_text": "Under Offer",
       "price_low": null,
       "price_high": null,
-      "advertised_as": "under_offer",
+      "advertised_as": "unknown",
+      "under_offer": true,
       "status": "under_offer",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-08-03",
-      "days_on_market": 84,
+      "days_on_market": 85,
       "auction_at": null,
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-27",
@@ -1170,18 +1194,21 @@
       "cars": 1,
       "land_m2": null,
       "agency": "Raine & Horne - Double Bay",
+      "is_project": false,
       "price_text": "Auction",
       "price_low": null,
       "price_high": null,
-      "advertised_as": "under_offer",
+      "advertised_as": "auction",
+      "under_offer": true,
       "status": "under_offer",
       "first_seen": "2026-10-19",
-      "last_seen": "2026-10-27",
+      "last_seen": "2026-10-28",
       "listed_date": "2026-08-07",
-      "days_on_market": 80,
+      "days_on_market": 81,
       "auction_at": "2026-10-23T17:00:00+11:00",
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [
         {
           "date": "2026-10-24",
@@ -1253,10 +1280,12 @@
       "cars": 0,
       "land_m2": null,
       "agency": "Century 21 City Quarter - Sydney",
+      "is_project": false,
       "price_text": "$1,250,000",
       "price_low": 1250000,
       "price_high": 1250000,
       "advertised_as": "fixed",
+      "under_offer": false,
       "status": "withdrawn",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-19",
@@ -1265,6 +1294,7 @@
       "auction_at": null,
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [],
       "status_history": [
         {
@@ -1299,8 +1329,8 @@
         "suburb": "Bondi",
         "state": "NSW",
         "postcode": "2026",
-        "lat": null,
-        "lng": null
+        "lat": -33.8952,
+        "lng": 151.26749
       },
       "property_type": "house",
       "beds": 4,
@@ -1308,10 +1338,12 @@
       "cars": 3,
       "land_m2": null,
       "agency": "Raine & Horne - Double Bay",
+      "is_project": false,
       "price_text": "Auction",
       "price_low": null,
       "price_high": null,
       "advertised_as": "auction",
+      "under_offer": false,
       "status": "withdrawn",
       "first_seen": "2026-10-19",
       "last_seen": "2026-10-22",
@@ -1320,6 +1352,7 @@
       "auction_at": null,
       "sold_date": null,
       "sold_price": null,
+      "sold_price_text": null,
       "price_history": [],
       "status_history": [
         {
